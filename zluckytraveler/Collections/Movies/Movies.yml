@@ -181,7 +181,7 @@ collections:
     template: {name: Collection, collection: 51509}
   Men In Black:
     template: {name: Collection, collection: 86055}
-  Mission: Impossible:
+  Mission Impossible:
     template: {name: Collection, collection: 87359}
     name_mapping: Mission Impossible
   Monsters, Inc.:
